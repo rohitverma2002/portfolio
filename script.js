@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const loadingScreen = document.querySelector('.loading-screen');
     const loadingText = document.querySelector('.loading-text');
     const mainContent = document.querySelector('.main-content');
-    const text = "ROHIT";
+    const text = "ROHIT VERMA";
     let charIndex = 0;
 
     function typeLoadingText() {
@@ -114,3 +114,4 @@ document.addEventListener('DOMContentLoaded', () => {
         console.error("Video autoplay failed:", error);
     });
 });
+
